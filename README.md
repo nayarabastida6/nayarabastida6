@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hola a todos mi nombre es Nayara 👋
 
-<!--
-**nayarabastida6/nayarabastida6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Aplicaciones Web | 💻 Apasionada por la tecnología, el diseño web y la programación.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí 🚀 
+
+Actualmente estoy estudiando el grado superior de **Desarrollo de Aplicaciones Web** y he cursado previamente el grado medio de **Sistemas Microinformáticos y Redes**. Me encanta seguir aprendiendo y aplicar mis conocimientos en proyectos reales.
+
+
+## Mis estadísticas 📊
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=nayarabastida6&show_icons=true&theme=tokyonight" alt="Github stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayarabastida6&layout=compact&show_icons=true&theme=tokyonight"/> |
+| ------------- | ------------- |
+
+
+## Contáctame ✉️
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin] Mi perfil de LinkedIn.
+
+<br clear="left"/>
+<br/>
+
+> _"La mejor forma de predecir el futuro es creándolo."_ – Peter Drucker
+
+[linkedin]: https://www.linkedin.com/in/nayara-bastida
