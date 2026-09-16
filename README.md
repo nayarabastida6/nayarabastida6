@@ -10,8 +10,12 @@ Actualmente estoy estudiando el grado superior de **Desarrollo de Aplicaciones W
 
 ## Mis estadísticas 📊
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=nayarabastida6&show_icons=true&theme=tokyonight" alt="Github stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayarabastida6&layout=compact&show_icons=true&theme=tokyonight"/> |
-| ------------- | ------------- |
+<a href="https://github.com/nayarabastida6">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=nayarabastida6&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+</a>
+<a href="https://github.com/nayarabastida6">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nayarabastida6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</a>
 
 
 ## Contáctame ✉️
